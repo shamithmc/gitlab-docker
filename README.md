@@ -9,7 +9,7 @@ For other installation options please see the
 ## Canonical source
 
 The source of omnibus-gitlab is [hosted on
-GitLab.com](https://gitlab.com/gitlab-org/omnibus-gitlab) and there are mirrors
+GitLab.com](https://gitlab.com/gitlab-org/omnibus-gitlab) and GitHub (https://github.com/shamithmc/gitlab-docker) and there are mirrors
 to make contributing as easy as possible.
 
 ## Documentation
