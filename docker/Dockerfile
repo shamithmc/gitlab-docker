@@ -18,7 +18,7 @@ RUN rm -rf /etc/update-motd.d /etc/motd /etc/motd.dynamic
 RUN ln -fs /dev/null /run/motd.dynamic
 
 # Copy assets
-COPY RELEASE /
+#COPY RELEASE /
 COPY assets/ /assets/
 RUN /assets/setup
 
